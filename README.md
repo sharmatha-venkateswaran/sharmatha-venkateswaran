@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharmatha-venkateswaran
 - 👀 I’m interested in ...APP DEVELOPMENT
-- 🌱 I’m currently learning ...FLITER
+- 🌱 I’m currently learning ...FLUTER
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...SHARMATHA1823@GMAIL.COM
 
